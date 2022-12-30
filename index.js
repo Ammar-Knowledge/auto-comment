@@ -1,5 +1,4 @@
 const eventTypes = {
-  issues: ["assigned", "unassigned", "labeled", "unlabeled", "opened", "edited", "milestoned", "demilestoned", "closed", "reopened"],
   pull_request: ["assigned", "unassigned", "review_requested", "review_request_removed", "labeled", "unlabeled", "opened", "edited", "closed", "reopened"]
 };
 
